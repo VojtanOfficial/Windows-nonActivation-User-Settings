@@ -1,6 +1,6 @@
 Freeware
 
-Repository: https://github.com/VojtanOfficial/nonActivation-User-Settings
+Repository: https://github.com/VojtanOfficial/nonActivation-User-Settings-For-Windows
 by: Vojtan
 Youtube: https://www.youtube.com/@VOJTAN_Official
 
