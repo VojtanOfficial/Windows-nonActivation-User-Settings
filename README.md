@@ -7,6 +7,6 @@ For 64 and 32 bit Windows builds
 
 <b>❗ DO NOT DOWNLOAD THIS APP FORM UNOFFICIAL SOURCE. IT CAN DESTROY YOUR WINDOWS! ❗</b>
 
-# 1.0.0
+## 1.0.0
 
 Relese of the app
